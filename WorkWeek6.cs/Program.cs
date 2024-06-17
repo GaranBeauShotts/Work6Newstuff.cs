@@ -19,6 +19,6 @@ class Program
         Console.WriteLine("\nPress any key to exit...");
 
         Console.WriteLine("This work");
-        Console.ReadKey();
+        Console.WriteLine("Test 2");
     }
 }
