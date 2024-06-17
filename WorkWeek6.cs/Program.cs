@@ -13,9 +13,12 @@ class Program
         Console.WriteLine("Jersey Number: " + player.JerseyNumber);
         Console.WriteLine("Goals Scored: " + player.GoalsScored);
         Console.WriteLine("Assists: " + player.Assists);
+        Console.WriteLine("Recent addition Test");
 
         // Wait for user input before closing console window (optional)
         Console.WriteLine("\nPress any key to exit...");
+
+        Console.WriteLine("This work");
         Console.ReadKey();
     }
 }
